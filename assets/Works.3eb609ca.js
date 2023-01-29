@@ -1,0 +1,1 @@
+import{G as n,N as r}from"./Gears.10136aa7.js";import{o as s,c as a,g as e,F as t}from"./index.4034c3f9.js";const c={__name:"Works",setup(p){return(o,i)=>(s(),a(t,null,[e(n,{position:o.current_pos},null,8,["position"]),e(r,{onLogout:o.hide_nav,position:o.current_pos},null,8,["onLogout","position"])],64))}};export{c as default};
