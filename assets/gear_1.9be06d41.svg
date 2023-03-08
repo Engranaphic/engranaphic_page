@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_2"
+   data-name="Capa 2"
+   viewBox="0 0 44.43 45.61"
+   version="1.1"
+   sodipodi:docname="engranaje 1.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="18.636264"
+     inkscape:cx="22.215"
+     inkscape:cy="27.097706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1-2" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g
+     id="Capa_1-2"
+     data-name="Capa 1">
+    <path
+       class="cls-1"
+       d="M 7.39,38.49 C 7.83,36.79 8.1,35.46 6.92,34.07 5.96,32.94 5.14,31.98 3.54,32.08 2.56,32.14 1.99,31.65 1.86,30.65 1.82,30.33 1.69,30.02 1.54,29.73 0.66,27.98 0.76,26.55 2.53,25.32 3.53,24.62 3.38,21.06 2.49,20.18 2.16,19.85 1.7,19.59 1.5,19.2 1.24,18.69 1.09,18.09 1.05,17.52 1.03,17.13 1.33,16.73 1.4,16.32 1.74,14.36 2.63,13.1 4.88,13.33 5.21,13.36 5.68,13.05 5.91,12.76 7.12,11.24 8.48,9.76 7.56,7.51 7.42,7.18 7.79,6.52 8.09,6.16 8.44,5.74 9.03,5.55 9.42,5.15 c 1.3,-1.32 2.56,-1.47 4.13,-0.32 1.14,0.84 4.39,-0.36 5.06,-1.63 0.38,-0.72 0.75,-1.91 1.28,-2.01 1.49,-0.27 3.08,-0.21 4.59,0 0.43,0.06 0.76,1.07 1.06,1.68 0.89,1.8 3.96,2.86 5.65,1.75 1.26,-0.83 2.26,-0.8 3.3,0.23 0.23,0.23 0.5,0.44 0.79,0.58 1.51,0.72 1.82,1.8 1.35,3.39 -0.5,1.7 1.63,4.5 3.4,4.58 1.49,0.06 2.47,0.55 2.65,2.15 0.03,0.32 0.14,0.65 0.29,0.93 0.79,1.42 0.46,2.45 -0.82,3.46 -1.44,1.14 -1.44,4.53 -0.05,5.7 1.19,0.99 1.74,1.98 0.89,3.44 -0.21,0.35 -0.31,0.79 -0.37,1.2 -0.18,1.34 -1,1.79 -2.26,1.92 -2.34,0.24 -4.17,2.72 -3.67,4.97 0.29,1.28 0.19,2.27 -1.16,2.82 -0.21,0.09 -0.41,0.24 -0.57,0.4 -1.31,1.43 -2.65,1.55 -4.23,0.35 -0.87,-0.66 -4.48,0.23 -4.74,1.23 -0.73,2.84 -2.75,2.68 -4.96,2.62 -1.1,-0.03 -1.75,-0.29 -2.04,-1.38 -0.34,-1.28 -1.25,-1.89 -2.51,-2.31 -1.47,-0.49 -2.77,-0.64 -4.03,0.4 -0.69,0.57 -1.3,0.5 -1.99,-0.08 C 9.2645085,40.23871 8.1478901,39.774445 7.39,38.49 Z M 22.22,37.02 C 30.627835,36.796536 36.49,30.6 36.45,22.61 36.41,14.85 29.99,8.56 22.13,8.57 14.3,8.58 8.2735393,15.207818 7.89,22.71 7.5064607,30.212182 13.812165,37.243464 22.22,37.02 Z"
+       id="path6"
+       sodipodi:nodetypes="cccccccccccccscccccccccccccccccccccccccsccczcczz" />
+  </g>
+</svg>
